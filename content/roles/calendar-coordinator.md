@@ -7,4 +7,4 @@ userID: bS5pcmVsYW5kQGNveC5uZXQ=
 rprs: false
 ---
 
-1. Do things
+1. Be the first line of defense
